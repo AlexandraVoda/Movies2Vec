@@ -87,3 +87,8 @@ target/
 
 # Mypy cache
 .mypy_cache/
+
+#20M dataset
+/data/20m_processed/
+/data/20m_raw/
+/models/20m/
